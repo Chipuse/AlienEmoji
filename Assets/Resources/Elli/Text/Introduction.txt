@@ -1,0 +1,4 @@
+Elli::
+Uuugh... I'm so hungry.\n
+What should I eat?
+>>

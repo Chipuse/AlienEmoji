@@ -1,0 +1,19 @@
+Fabio::
+Hey you!\n
+Exchange student!
+>>
+Max::
+Prepare for trouble!
+>>
+Fabio::
+And make it double!
+>>
+Max::
+We're not going to let you out until you tell us the answers to this science homework!
+>>
+Fabio::
+Yeah! What's this exotic plant they are talking about?
+>>
+
+
+

@@ -1,0 +1,15 @@
+Mr. Nickel::
+Sorry, pal. But I can’t let you through until you’ve done your math homework!
+>>
+Mr. Nickel::
+I heard your translator is broken. But you can just tell me the answers to these math equations by giving me a word with the exact amount of letters in it.
+>>
+Mr. Nickel::
+Got it? If the answer is five just show me a word with 5 letters in it.
+>>
+Mr. Nickel::
+Let’s go!
+>>
+Mr. Nickel::
+What’s 2*4?
+>>

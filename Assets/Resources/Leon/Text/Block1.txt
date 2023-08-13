@@ -1,0 +1,9 @@
+Leon::
+Excuse me! You can’t go in there.
+>>
+Leon::
+This is the teacher’s lounge. Only teachers are allowed in there!
+>>
+Leon::
+What do you need from there anyways?
+>>

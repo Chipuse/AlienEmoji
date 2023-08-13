@@ -1,0 +1,4 @@
+Mr. Nickel::
+Last question:\n
+What’s 12/2?
+>>
