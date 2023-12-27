@@ -1,6 +1,6 @@
 # AlienEmoji
  
-## Notable Code Contributions by Mai Vollmer
+## Code Contributions by Mai Vollmer
 - Assets
   - Scripts
     - Boss.cs
